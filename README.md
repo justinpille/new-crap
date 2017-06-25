@@ -19,13 +19,18 @@ After creating a new project with create-react-app, I...
   git init
   git add .
   git commit -m "initial commit"
-  git remote add origin https://github.com/justinpille/subsets.git
-  git push -u origin master
 ```
 Create a new repo on Github named <project-name>
 ```
 git remote add origin https://github.com/justinpille/<project-name>.git
 git push -u origin master
+```
+
+Change name and homepage values in package.json
+
+Install deps:
+```
+npm install
 ```
 
 Develop:
