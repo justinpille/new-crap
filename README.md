@@ -1,5 +1,15 @@
 # New create-react-app Project
 
+## How I got here
+
+After creating a new project with create-react-app, I...
+- added a homepage property to package.json
+- added a linter config to package.json
+- deleted some junk in src
+
+
+## Usage
+
 ```
   git clone https://github.com/justinpille/new-crap.git <project-name>
   cd <projet-name>
