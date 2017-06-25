@@ -47,3 +47,5 @@ Deploy:
 ```
 npm run deploy
 ```
+
+Don't forget to change this README to suit the new project.
